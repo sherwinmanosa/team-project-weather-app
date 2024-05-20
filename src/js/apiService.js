@@ -229,7 +229,7 @@ async function nextSeachElem() {
       );
     }
   } else {
-    console.log('test');
+    console.log('test1');
   }
   await renderFavList(favoritItems);
   const FavElem = document.querySelectorAll('.seach-favorite-item');
